@@ -1,0 +1,6 @@
+@DMG.Examples.Testing.Api_HostAddress = http://localhost:5096
+
+GET {{DMG.Examples.Testing.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
